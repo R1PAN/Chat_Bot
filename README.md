@@ -17,3 +17,8 @@ bash_path=$(command -v bash)
 directory_path="${bash_path%/*}"
 mv chat "$directory_path"
 ```
+## nb
+``
+Jalankan dengan mengetikan "chat"
+Hapus history chat dengan mengetikan "reset"
+``
