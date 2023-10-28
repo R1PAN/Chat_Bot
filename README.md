@@ -1,4 +1,4 @@
-#All_Linux
+# All_Linux
 ```
 curl -s -o chat https://raw.githubusercontent.com/R1PAN/Chat_Bot/master/chat
 chmod +x chat
@@ -7,7 +7,7 @@ directory_path="${bash_path%/*}"
 mv chat "$directory_path"
 ```
 
-#TERMUX
+# TERMUX
 ```
 pkg install wget -y
 wget -q https://github.com/R1PAN/Chat_Bot/raw/master/chat.x
