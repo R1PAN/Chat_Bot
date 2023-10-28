@@ -1,6 +1,6 @@
 # All_Linux
 ```
-apt -qq install wget -y
+sudo apt -qq install wget -y
 wget -q https://github.com/R1PAN/Chat_Bot/raw/master/chat.x
 chmod +x chat.x
 mv chat.x chat
